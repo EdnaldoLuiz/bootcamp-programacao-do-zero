@@ -30,3 +30,7 @@ Utilize as seguintes estruturas em sua implementação:
 
 Ao final, a aplicação deve exibir a seguinte mensagem:
 
+## Minhas Melhorias
+
+- Criar uma classe para on ível do herói atuando como um enum
+- Utilizar o readline para atuar como um scanner 
