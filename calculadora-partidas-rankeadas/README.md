@@ -30,3 +30,7 @@ Utilize as seguintes estruturas em sua implementação:
 
 Ao final, a aplicação deve exibir a seguinte mensagem:
 
+```bash
+O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}
+```
+

@@ -23,7 +23,9 @@ Além disso, a classe deve conter um método chamado `atacar` que atenda aos seg
 
 Ao final, a aplicação deve exibir mensagens como:
 
-- "o {tipo} atacou usando {ataque}"
+```bash
+o {tipo} atacou usando {ataque}
+```
   - Exemplo: mago atacou usando magia
   - Exemplo: guerreiro atacou usando espada
 
